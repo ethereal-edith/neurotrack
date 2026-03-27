@@ -65,3 +65,6 @@ htmlcov/
 # Dependencies
 pip-log.txt
 pip-delete-this-directory.txt
+
+# Markdown
+ProjectRequirements.md
